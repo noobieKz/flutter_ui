@@ -1,16 +1,4 @@
-# flutter_ui
+# Collection of samples Flutter-UI
+- Bottom Navigation
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/30549963/123849072-996c1b80-d942-11eb-8094-0f7fd5684fd1.gif)
